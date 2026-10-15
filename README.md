@@ -48,5 +48,3 @@ python servicios.py
 7. Salir
 
 El programa rechaza cantidades negativas, horas inválidas, valores que no son números y textos vacíos.
-"# PFU-111-Programaci-n-Fundamental-Herencia-y-polimorfismo-Python-" 
-"# PFU-111-Programaci-n-Fundamental-Herencia-y-polimorfismo-Python-" 
