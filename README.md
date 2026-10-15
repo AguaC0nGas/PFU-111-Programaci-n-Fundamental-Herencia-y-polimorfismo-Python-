@@ -5,9 +5,13 @@ Programa en Python que usa herencia y polimorfismo para registrar servicios
 de mantenimiento, instalación y soporte técnico, y calcular su costo.
 
 ## Integrantes
+
 Hugo Marcelo Nina Garcia 
+
 Brayan Oruña Guarachi  
+
 Adriana Micaela Torrejon Peña  
+
 Elvis Quispe Mamani 
 
 ## Descripción
